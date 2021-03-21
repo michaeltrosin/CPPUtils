@@ -35,8 +35,6 @@
 #error "NOT SUPPORTED"
 #endif
 
-#define test_macro
-
 #define BIT(x) (1 << (x))
 
 #define BITFIELD(enum)                                                                                                                               \

@@ -12,5 +12,3 @@ add_library(Utils
         utils/logging.h
         utils/macros.h
         )
-
-set_target_properties(Utils PROPERTIES LINKER_LANGUAGE CXX)
